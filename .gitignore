@@ -12,5 +12,5 @@ node_modules/
 
 # Hardhat build outputs
 artifacts/
-cache/
+cache
 build
